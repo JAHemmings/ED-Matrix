@@ -10,7 +10,7 @@ using std::endl;
 using std::runtime_error;
 
 template <typename E>
-class Matrix {
+class Matriz {
 private:
 
     ArrayList<ArrayList<E>*>* matrix;
