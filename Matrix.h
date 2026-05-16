@@ -1,3 +1,5 @@
+//Profe me di cuenta que le puse Matriz.h al otro en lugar de Matrix.h y tambien le adelanto que transpose no me funciona
+
 #pragma once
 
 #include <iostream>
